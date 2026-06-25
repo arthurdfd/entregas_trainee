@@ -1,4 +1,4 @@
-# 🗄️ Semana 2: Banco de Dados (SQL) & Bibliotecas Essenciais (NumPy e Pandas)
+# Semana 2: Banco de Dados (SQL) & Bibliotecas Essenciais (NumPy e Pandas)
 
 Nesta segunda semana do programa Trainee, o foco foi dividido entre a compreensão estrutural de consultas em bancos de dados relacionais e o contato prático com manipulação de matrizes e tabelas em Python.
 
