@@ -4,15 +4,15 @@ Nesta segunda semana do programa Trainee, o foco foi dividido entre a compreens�
 
 ---
 
-### 1. Consultas com SQL (Structured Query Language)
+### 1. Consultas com SQL
 - Extração e filtragem de dados estruturados utilizando as cláusulas `SELECT`, `FROM`, `WHERE` e operadores lógicos.
 - Agrupamento e agregação de informações com `GROUP BY`, `HAVING` e funções matemáticas (`SUM`, `AVG`, `COUNT`).
 - Relacionamento entre tabelas através de operações de junção (`INNER JOIN`, `LEFT JOIN`).
 
-### 2. NumPy (Numerical Python)
+### 2. NumPy
 - Criação e manipulação de arrays multidimensionais (Matrizes e Vetores).
 - Operações matemáticas vetorizadas de alta performance, fundamentais para a computação científica e análise estatística.
 
-### 3. Pandas (Dataframes)
+### 3. Pandas
 - Estruturação de dados brutos nas estruturas de `Series` e `DataFrame`.
 - Técnicas iniciais de indexação, seleção de colunas, ordenação e filtragem lógica de tabelas de dados.
