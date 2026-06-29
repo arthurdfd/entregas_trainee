@@ -8,12 +8,12 @@ Cada subpasta representa uma semana específico do cronograma, contendo os respe
 
 ## Cronograma de Atividades e Status de Entrega
 
-- [x] **[Semana 1: Fundamentos de Python e Git](./semana-01-python/)** 
+- [x] **[Semana 1: Fundamentos de Python e Git](./semana-01/)** 
     - *Entrega:* Scripts estruturados em Python, consolidando a lógica de programação e estruturas de dados.
-- [x] **[Semana 2: Banco de Dados (SQL) & NumPy/Pandas](./semana-02-sql/)** 
+- [x] **[Semana 2: Banco de Dados (SQL) & NumPy/Pandas](./semana-02/)** 
     - *Entrega:* Certificado oficial de conclusão do curso prático de 10 horas do *LearnSQL*.
 
-- [ ] **Semana 3: Estatística e Probabilidade** 
+- [x] **[Semana 3: Estatística e Probabilidade](./semana-03/)** 
   - *Entrega:* Notebook aplicando testes de hipótese e métricas de dispersão/estatística descritiva em um dataset de escolha.
 - [ ] **Semana 4: Análise Exploratória de Dados (EDA)**
   - *Entrega:* Fluxo completo de tratamento, limpeza e análise de dados (*Data Cleansing* & EDA).
