@@ -15,7 +15,7 @@ Cada subpasta representa uma semana específico do cronograma, contendo os respe
 
 - [x] **[Semana 3: Estatística e Probabilidade](./semana-03/)** 
   - *Entrega:* Notebook aplicando testes de hipótese e métricas de dispersão/estatística descritiva em um dataset de escolha.
-- [ ] **Semana 4: Análise Exploratória de Dados (EDA)**
+- [x] **[Semana 4: Análise Exploratória de Dados (EDA)](./semana-04/)**
   - *Entrega:* Fluxo completo de tratamento, limpeza e análise de dados (*Data Cleansing* & EDA).
 
 - [ ] **Semana 5: Aprendizado de Máquina Supervisionado**
