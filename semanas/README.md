@@ -18,7 +18,7 @@ Cada subpasta representa uma semana específico do cronograma, contendo os respe
 - [x] **[Semana 4: Análise Exploratória de Dados (EDA)](./semana-04/)**
   - *Entrega:* Fluxo completo de tratamento, limpeza e análise de dados (*Data Cleansing* & EDA).
 
-- [ ] **Semana 5: Aprendizado de Máquina Supervisionado**
+- [x] **[Semana 5: Aprendizado de Máquina Supervisionado](./semana-05/)**
   - *Entrega:* Implementação e versionamento de modelos preditivos supervisionados (Classificação/Regressão).
 - [ ] **Semana 6: Aprendizado de Máquina Não Supervisionado**
   - *Entrega:* Segmentação de perfis utilizando algoritmos de clusterização.
