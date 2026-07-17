@@ -18,7 +18,7 @@ Este diretório centraliza todas as entregas e evoluções práticas desenvolvid
 
 - [x] **[Semana 5: Aprendizado de Máquina Supervisionado](./semana-05/)**
   - *Entrega:* Implementação e versionamento de modelos preditivos supervisionados (Classificação/Regressão).
-- [ ] **Semana 6: Aprendizado de Máquina Não Supervisionado**
+- [x] **[Semana 6: Aprendizado de Máquina Não Supervisionado](./semana-06/)**
   - *Entrega:* Segmentação de perfis utilizando algoritmos de clusterização.
 
 - [ ] **Semana 7: Visualização e Dashboards Interativos (Streamlit)**
