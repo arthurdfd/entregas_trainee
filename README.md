@@ -8,20 +8,21 @@ Este diretório centraliza todas as entregas e evoluções práticas desenvolvid
 
 - [x] **[Semana 1: Fundamentos de Python e Git](./semana-01/)** 
     - *Entrega:* Scripts estruturados em Python, consolidando a lógica de programação e estruturas de dados.
+
 - [x] **[Semana 2: Banco de Dados (SQL) & NumPy/Pandas](./semana-02/)** 
     - *Entrega:* Certificado oficial de conclusão do curso prático de 10 horas do *LearnSQL*.
 
 - [x] **[Semana 3: Estatística e Probabilidade](./semana-03/)** 
   - *Entrega:* Notebook aplicando testes de hipótese e métricas de dispersão/estatística descritiva em um dataset de escolha.
+
 - [x] **[Semana 4: Análise Exploratória de Dados (EDA)](./semana-04/)**
   - *Entrega:* Fluxo completo de tratamento, limpeza e análise de dados (*Data Cleansing* & EDA).
 
 - [x] **[Semana 5: Aprendizado de Máquina Supervisionado](./semana-05/)**
   - *Entrega:* Implementação e versionamento de modelos preditivos supervisionados (Classificação/Regressão).
+  
 - [x] **[Semana 6: Aprendizado de Máquina Não Supervisionado](./semana-06/)**
   - *Entrega:* Segmentação de perfis utilizando algoritmos de clusterização.
 
-- [ ] **Semana 7: Visualização e Dashboards Interativos (Streamlit)**
+- [x] **[Semana 7: Visualização e Dashboards Interativos (Streamlit)](./semana-07/)**
   - *Entrega:* Construção e publicação de uma aplicação web interativa para apresentação dos insights gerados.
-- [ ] **Semana 8: Apresentação Final**
-  - *Entrega:* Apresentação final do projeto.
